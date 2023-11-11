@@ -14,6 +14,7 @@
 		A7AA35A52AF68083004B98EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7AA35A32AF68083004B98EF /* LaunchScreen.storyboard */; };
 		A7F7F4802AFB1E570002DE6B /* HourlyForecastCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F7F47F2AFB1E570002DE6B /* HourlyForecastCollectionViewCell.swift */; };
 		A7F7F4822AFB276C0002DE6B /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F7F4812AFB276C0002DE6B /* ColorExtension.swift */; };
+		A7FD636D2AFDAF1100E9F127 /* DailyForecastTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FD636C2AFDAF1100E9F127 /* DailyForecastTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A7AA35A62AF68083004B98EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A7F7F47F2AFB1E570002DE6B /* HourlyForecastCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourlyForecastCollectionViewCell.swift; sourceTree = "<group>"; };
 		A7F7F4812AFB276C0002DE6B /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		A7FD636C2AFDAF1100E9F127 /* DailyForecastTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyForecastTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A7AA35982AF6807F004B98EF /* AppDelegate.swift */,
 				A7AA359A2AF6807F004B98EF /* SceneDelegate.swift */,
 				A7AA359C2AF6807F004B98EF /* ViewController.swift */,
+				A7FD636C2AFDAF1100E9F127 /* DailyForecastTableViewCell.swift */,
 				A7F7F47F2AFB1E570002DE6B /* HourlyForecastCollectionViewCell.swift */,
 				A7F7F4812AFB276C0002DE6B /* ColorExtension.swift */,
 				A7AA35A12AF68083004B98EF /* Assets.xcassets */,
@@ -142,6 +145,7 @@
 			files = (
 				A7AA359D2AF6807F004B98EF /* ViewController.swift in Sources */,
 				A7AA35992AF6807F004B98EF /* AppDelegate.swift in Sources */,
+				A7FD636D2AFDAF1100E9F127 /* DailyForecastTableViewCell.swift in Sources */,
 				A7F7F4802AFB1E570002DE6B /* HourlyForecastCollectionViewCell.swift in Sources */,
 				A7AA359B2AF6807F004B98EF /* SceneDelegate.swift in Sources */,
 				A7F7F4822AFB276C0002DE6B /* ColorExtension.swift in Sources */,
